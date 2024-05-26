@@ -69,7 +69,7 @@ header{
 .assunto h1{
     font-size:18px;
     font-weight: 500;
-    color:var(--primary-text-color)
+    color:var(--primary-text-color);
 }
 .tema{
     padding: 8px 0;
